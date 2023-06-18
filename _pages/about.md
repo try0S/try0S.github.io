@@ -2,16 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ruhr University Bochum</p>
+    <p>Chair for Systems Security, ID 2/137</p>
+    <p>Universitätsstraße 150</p>
+    <p>44780 Bochum, Germany</p>
+
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +21,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-CHANGE. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year PhD student at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/en), under the supervision of [Veelasha Moonsamy](https://veelasha.org). I specialize in security research within the DFG Cluster of Excellence [“Cyber Security in the Age of Large-Scale Adversaries“ (CASA)](https://casa.rub.de/en/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on the intersection of security in software-defined networking and machine learning in the data plane. I hold a Bachelor's and Master's degree in IT-Security from Ruhr University Bochum.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Furthermore, I have valuable industry experience from my time at [G DATA CyberDefense AG](https://www.gdata.de), where I developed a method for dynamically detecting malware using Graph Neural Networks as part of my Master's thesis.
+
+Prior to that, I was involved with [G DATA Advanced Analytics AG](https://www.gdata-advancedanalytics.de) as a working student, contributing to the development of a [vulnerability scanner](https://github.com/FHMS-ITS/MITS-Scanner/) for Health-IT infrastructure as part of the [MITSicherheit.NRW](https://mits.nrw) project.
+
+
